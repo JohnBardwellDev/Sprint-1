@@ -31,3 +31,26 @@ I think so, by the name alone.
 Did you stick to the timebox suggestions? If not, why not?
 Im catching up now.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Git Setup
+
+What are the two different ways of creating a new Git repository?
+locally: using Git Init to create a repository out of the folder your in.
+remotely: using Git Clone provided by the url provided by github after creating a repository from there.
+
+What is the difference between a local and a remote repository?
+You'd use your local repository as your main private workspace and the remote repository is for collaborating with others.
+
+How confident do you feel with the add–commit–push workflow right now, on a scale of 1–10?
+5
+
+What part is still confusing? What would help you understand it better?
+I want to be in a position where I know the commands by memory, looking at the process behind creating repositories in a visual way helped me understand
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Stage and Commit
+
+Staging allows you to have an overview on the changes you have made, committing allows you to explicitly detail them before pushing them so users can 
+easily see what changes have been made. 
