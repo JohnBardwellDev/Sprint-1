@@ -1,0 +1,33 @@
+Command Line Primer
+
+How would you describe the command line in plain English in a couple of sentences? Can you think of an analogy for it?
+Instead of cooking a dish, you're ordering it off a menu
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+I had a false start this week which has produced a snowball effect of catching up which I will remember not to create for myself next week
+
+Name five commands you used and what they do.
+ls - show all files in folder
+touch example(or.txt) - creates a new folder or text file
+rm -r filename - removes file
+cd - navigate to
+cat example.txt - show contents of text file in terminal
+
+Did you learn anything unexpected?
+I find this more efficient than clicking through on finder where I normally use the find/go feature anyway. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Version Control with Git
+What's the difference between Git and GitHub?
+Git is used locally by an individual, Github is used online by groups.
+
+Can you think of an analogy to describe them?
+Git is like a game with saves bound to a certain system, Github is like a modern games save system where multiple save states can be accessed on multiple devices.  
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+I think so, by the name alone. 
+
+Did you stick to the timebox suggestions? If not, why not?
+Im catching up now.
+
